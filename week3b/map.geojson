@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "place": "Death Valley National Park",
+          "notes": "One of the first national parks I've ever visited."
+        },
+        "geometry": {
+          "coordinates": [
+            -116.84763233696526,
+            36.50908417868963
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "place": "Joshua Tree National Park",
+          "notes": "The best place for stargazing."
+        },
+        "geometry": {
+          "coordinates": [
+            -115.8470948480907,
+            33.91546074724177
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "place": "Anza-Borrego Desert State Park",
+          "notes": "So many wildflowers in the spring!"
+        },
+        "geometry": {
+          "coordinates": [
+            -116.29919569199282,
+            33.14719648605771
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      }
+    ]
+  }
